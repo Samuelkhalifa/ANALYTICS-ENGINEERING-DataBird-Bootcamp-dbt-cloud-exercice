@@ -1,4 +1,4 @@
-DATA BIRD exercice for DBT module
+DATA BIRD bootcamp exercice for DBT module
 
 ## &#128295; Used tools
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
